@@ -8,6 +8,3 @@ pkg install proot-distro -y
 proot-distro install ubuntu
 
 echo "proot-distro login ubuntu" > $HOME/../usr/bin/fsu && chmod +x $HOME/../usr/bin/fsu
-
-# Run Ubuntu & Package Install 
-fsu && apt update -y && apt upgrade -y
