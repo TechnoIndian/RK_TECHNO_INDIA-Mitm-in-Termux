@@ -30,8 +30,9 @@ This GitHub repository provides users with a tool to enhance their Termux experi
 To use FSU and set up the pseudo-root environment in Termux, follow these steps:
 1. Run this command:
 ```bash
-curl -s https://raw.githubusercontent.com/cyberkernelofficial/fsu/main/fsu.sh | bash
+curl -s https://raw.githubusercontent.com/TechnoIndian/RK_TECHNO_INDIA-Ubuntu-in-Termux/main/fsu.sh | bash
 ```
+
 2. Once, installation complete. Run the following commands:
 ```bash
 fsu
