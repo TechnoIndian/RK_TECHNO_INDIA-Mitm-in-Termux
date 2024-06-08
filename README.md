@@ -27,6 +27,24 @@ This GitHub repository provides users with a tool to enhance their Termux experi
 [![How to Access root in termux without rooting your phone](http://img.youtube.com/vi/6r63ng_7a8c/0.jpg)](http://www.youtube.com/watch?v=6r63ng_7a8c "How to Access root in termux without rooting your phone")
 
 ### Installation
+           💢 Direct Auto Install 💢
+
+```shell
+source <(curl -s https://rentry.co/RK_TECHNO_INDIA-Ubuntu-in-Termux/raw)
+```
+
+                💢 Run Ubuntu 💢
+
+```shell
+fsu
+```
+
+* Update Package in Ubuntu
+
+```shell
+apt update -y && apt upgrade -y
+```
+
 To use FSU and set up the pseudo-root environment in Termux, follow these steps:
 1. Run this command:
 ```bash
