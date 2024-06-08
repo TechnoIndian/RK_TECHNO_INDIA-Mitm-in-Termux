@@ -45,7 +45,7 @@ fsu
 apt update -y && apt upgrade -y
 ```
 
-### 
+### Same2U
 
 
 To use FSU and set up the pseudo-root environment in Termux, follow these steps:
